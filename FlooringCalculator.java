@@ -3,7 +3,7 @@ import javax.swing.JOptionPane; // import JOptionPane
 //Laminate Flooring Calculator - Java 3C
 //Amelia Koop, Sp24
 
-public class KoopAJ3C
+public class FlooringCalculator
 {  
    public static void main(String[] args)
    {
