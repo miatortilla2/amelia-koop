@@ -3,7 +3,7 @@ import javax.swing.JOptionPane; // import JOptionPane
 //Book Purchase - Java 3A
 //Amelia Koop, Sp24
 
-public class KoopAJ3A
+public class BookPurchase
 {  
    public static void main(String[] args)
    {
