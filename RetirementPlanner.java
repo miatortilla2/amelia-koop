@@ -3,7 +3,7 @@ import java.util.Scanner ; // import Scanner
 //Retirement Planning - Java 3B
 //Amelia Koop, Sp24
 
-public class KoopAJ3B
+public class RetirementPlanner
 {  
    public static void main(String[] args)
    {
